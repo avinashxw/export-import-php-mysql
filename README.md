@@ -6,6 +6,7 @@ Yayy! Here, we export data using PHP and MySQL with filters using DataTables :-)
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
 3. [References](#references)
+4. [Screenshots](#screenshots)
 
 ### General Info
 ***
@@ -17,4 +18,8 @@ PHP, MySQL, Bootsratp, HTML5, CSS, JavaScript, jQuery, DataTables
 
 ### References
 ***
-Countries Data: https://raw.githubusercontent.com/dr5hn/countries-states-cities-database/master/sql/countries.sql
+An article by phppot: https://phppot.com/php/export-datatables-data-using-php-and-mysql/
+
+### Screenshots
+***
+<img src="/vendor/images/screenshot-export-data.png" title="Export data using DataTables" alt="Export data using DataTables" />
